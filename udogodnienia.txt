@@ -1,0 +1,60 @@
+Pytanie: Czy macie basen w hotelu?
+Odpowiedź: Tak, nasz basen znajduje się na parterze.
+Pytanie: Jakie są godziny otwarcia siłowni?
+Odpowiedź: Siłownia jest otwarta od 6:00 do 22:00.
+Pytanie: Czy oferujecie usługi pralnicze?
+Odpowiedź: Tak, zapewniamy usługi pralnicze i prasowania.
+Pytanie: Czy w hotelu jest spa?
+Odpowiedź: Tak, mamy spa z szeroką ofertą zabiegów relaksacyjnych.
+Pytanie: Czy jest dostępne Wi-Fi?
+Odpowiedź: Tak, bezpłatne Wi-Fi jest dostępne na terenie całego hotelu.
+Pytanie: Czy macie parking dla gości?
+Odpowiedź: Tak, mamy parking dla gości, jest on bezpłatny.
+Pytanie: Czy można wynająć rowery w hotelu?
+Odpowiedź: Tak, oferujemy wynajem rowerów.
+Pytanie: Czy jest dostępna usługa transferu na lotnisko?
+Odpowiedź: Tak, organizujemy transfery na lotnisko. Proszę o wcześniejszą rezerwację.
+Pytanie: Czy oferujecie usługi konsjerża?
+Odpowiedź: Tak, nasz konsjerż jest dostępny przez całą dobę.
+Pytanie: Czy w pokojach są dostępne suszarki do włosów?
+Odpowiedź: Tak, wszystkie pokoje są wyposażone w suszarki do włosów.
+Pytanie: Czy macie centrum biznesowe?
+Odpowiedź: Tak, nasze centrum biznesowe jest dostępne dla gości hotelowych.
+Pytanie: Czy jest możliwość wypożyczenia samochodu?
+Odpowiedź: Tak, możemy zorganizować wynajem samochodu.
+Pytanie: Czy oferujecie pokoje dla niepalących?
+Odpowiedź: Tak, mamy pokoje dla niepalących.
+Pytanie: Czy macie dostępne łóżeczka dla dzieci?
+Odpowiedź: Tak, oferujemy łóżeczka dla dzieci na życzenie.
+Pytanie: Czy w hotelu jest sala konferencyjna?
+Odpowiedź: Tak, mamy w pełni wyposażoną salę konferencyjną.
+Pytanie: Czy można zorganizować wesele w waszym hotelu?
+Odpowiedź: Tak, organizujemy wesela. Proszę skontaktować się z naszym koordynatorem wydarzeń.
+Pytanie: Czy macie dostępne sejfy w pokojach?
+Odpowiedź: Tak, każdy pokój jest wyposażony w sejf.
+Pytanie: Czy oferujecie usługi budzenia?
+Odpowiedź: Tak, możemy zorganizować budzenie na życzenie gościa.
+Pytanie: Czy jest dostępna opieka nad dziećmi?
+Odpowiedź: Tak, oferujemy usługę opieki nad dziećmi.
+Pytanie: Czy można przynieść zwierzęta do hotelu?
+Odpowiedź: Tak, akceptujemy zwierzęta domowe. Prosimy o wcześniejsze zgłoszenie.
+Pytanie: Czy macie pokoje z widokiem na morze?
+Odpowiedź: Tak, oferujemy pokoje z widokiem na morze.
+Pytanie: Czy hotel posiada windę?
+Odpowiedź: Tak, nasz hotel jest wyposażony w windę.
+Pytanie: Czy jest dostępna usługa prasowania odzieży?
+Odpowiedź: Tak, oferujemy usługi prasowania odzieży.
+Pytanie: Czy macie taras lub ogród dla gości?
+Odpowiedź: Tak, mamy taras oraz ogród dostępny dla gości.
+Pytanie: Czy oferujecie wynajem sali na spotkania biznesowe?
+Odpowiedź: Tak, nasze sale konferencyjne są dostępne na wynajem.
+Pytanie: Czy w hotelu jest kawiarnia?
+Odpowiedź: Tak, mamy kawiarnię na parterze.
+Pytanie: Czy jest możliwość wcześniejszego zameldowania?
+Odpowiedź: Tak, w miarę dostępności pokoi oferujemy wcześniejsze zameldowanie.
+Pytanie: Czy w pokojach są dostępne telewizory?
+Odpowiedź: Tak, wszystkie pokoje są wyposażone w telewizory.
+Pytanie: Czy oferujecie usługi fryzjerskie?
+Odpowiedź: Tak, mamy salon fryzjerski na terenie hotelu.
+Pytanie: Czy w hotelu jest dostępna sauna?
+Odpowiedź: Tak, mamy saunę dostępną dla gości.

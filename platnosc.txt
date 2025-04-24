@@ -1,0 +1,60 @@
+Pytanie: Jakie metody płatności akceptujecie?
+Odpowiedź: Akceptujemy karty kredytowe, debetowe oraz płatności gotówką.
+Pytanie: Czy mogę zapłacić kartą American Express?
+Odpowiedź: Tak, akceptujemy karty American Express.
+Pytanie: Czy mogę otrzymać fakturę VAT za pobyt?
+Odpowiedź: Tak, proszę podać dane do faktury przy zameldowaniu lub wymeldowaniu.
+Pytanie: Czy możliwa jest płatność przelewem bankowym?
+Odpowiedź: Tak, proszę skontaktować się z recepcją w celu ustalenia szczegółów.
+Pytanie: Czy mogę zapłacić zaliczkę przed przyjazdem?
+Odpowiedź: Tak, możemy przyjąć zaliczkę. Proszę skontaktować się z recepcją w celu ustalenia szczegółów.
+Pytanie: Czy oferujecie rabaty przy dłuższych pobytach?
+Odpowiedź: Tak, oferujemy rabaty przy dłuższych pobytach. Proszę skontaktować się z recepcją w celu uzyskania szczegółowych informacji.
+Pytanie: Czy mogę zapłacić w obcej walucie?
+Odpowiedź: Akceptujemy płatności w lokalnej walucie. Proszę zapytać w recepcji o możliwość wymiany walut.
+Pytanie: Czy mogę podzielić płatność na kilka kart?
+Odpowiedź: Tak, możemy podzielić płatność na kilka kart.
+Pytanie: Czy oferujecie opcję „zapłać później”?
+Odpowiedź: Niestety, wszystkie płatności muszą być dokonane przed lub w momencie wymeldowania.
+Pytanie: Jakie są wasze zasady dotyczące depozytów?
+Odpowiedź: Prosimy o pozostawienie depozytu w wysokości jednej nocy pobytu przy zameldowaniu.
+Pytanie: Czy mogę otrzymać potwierdzenie płatności na e-mail?
+Odpowiedź: Tak, możemy wysłać potwierdzenie płatności na e-mail.
+Pytanie: Czy oferujecie faktury elektroniczne?
+Odpowiedź: Tak, możemy wystawić i wysłać fakturę elektroniczną.
+Pytanie: Czy mogę zapłacić online przed przyjazdem?
+Odpowiedź: Tak, oferujemy opcję płatności online.
+Pytanie: Czy pobieracie opłatę klimatyczną?
+Odpowiedź: Tak, opłata klimatyczna jest doliczana do rachunku.
+Pytanie: Czy oferujecie zniżki dla grup?
+Odpowiedź: Tak, oferujemy zniżki dla grup. Proszę skontaktować się z recepcją w celu uzyskania szczegółowych informacji.
+Pytanie: Czy mogę zapłacić za pobyt z góry?
+Odpowiedź: Tak, istnieje możliwość zapłaty za pobyt z góry.
+Pytanie: Czy macie specjalne ceny dla firm?
+Odpowiedź: Tak, oferujemy specjalne ceny dla firm. Proszę skontaktować się z działem sprzedaży w celu uzyskania szczegółowych informacji.
+Pytanie: Czy oferujecie opcję płatności ratalnej?
+Odpowiedź: Niestety, nie oferujemy opcji płatności ratalnej.
+Pytanie: Czy mogę zapłacić za usługi dodatkowe (np. spa) przy wymeldowaniu?
+Odpowiedź: Tak, wszystkie dodatkowe usługi mogą być doliczone do rachunku i zapłacone przy wymeldowaniu.
+Pytanie: Czy pobieracie opłatę za późne wymeldowanie?
+Odpowiedź: Tak, pobieramy opłatę za późne wymeldowanie. Proszę skontaktować się z recepcją w celu uzyskania szczegółowych informacji.
+Pytanie: Czy mogę otrzymać zwrot za niewykorzystane noce?
+Odpowiedź: Zasady dotyczące zwrotów za niewykorzystane noce są zależne od warunków rezerwacji. Proszę skontaktować się z recepcją w celu uzyskania szczegółowych informacji.
+Pytanie: Czy mogę przedłużyć pobyt i zapłacić przy wymeldowaniu?
+Odpowiedź: Tak, proszę skontaktować się z recepcją w celu sprawdzenia dostępności i przedłużenia pobytu.
+Pytanie: Czy mogę otrzymać fakturę zbiorczą za kilka pokoi?
+Odpowiedź: Tak, możemy wystawić fakturę zbiorczą. Proszę podać szczegóły przy zameldowaniu.
+Pytanie: Czy mogę zapłacić kartą firmową?
+Odpowiedź: Tak, akceptujemy płatności kartami firmowymi.
+Pytanie: Jakie są wasze zasady anulowania rezerwacji?
+Odpowiedź: Zasady anulowania rezerwacji zależą od wybranej oferty. Proszę zapoznać się z warunkami rezerwacji lub skontaktować się z recepcją.
+Pytanie: Czy oferujecie możliwość preautoryzacji karty kredytowej?
+Odpowiedź: Tak, możemy dokonać preautoryzacji karty kredytowej.
+Pytanie: Czy muszę podać dane karty kredytowej przy rezerwacji?
+Odpowiedź: Tak, dane karty kredytowej są wymagane do zagwarantowania rezerwacji.
+Pytanie: Czy mogę zapłacić bonem turystycznym?
+Odpowiedź: Tak, akceptujemy bony turystyczne.
+Pytanie: Czy oferujecie specjalne stawki dla klientów powracających?
+Odpowiedź: Tak, mamy specjalne oferty dla naszych stałych gości.
+Pytanie: Czy mogę rozliczyć pobyt na różne osoby?
+Odpowiedź: Tak, możemy rozdzielić rachunek na kilka osób. Proszę poinformować nas przy wymeldowaniu.

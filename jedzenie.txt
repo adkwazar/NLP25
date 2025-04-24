@@ -1,0 +1,60 @@
+Pytanie: Czy mogę zamówić śniadanie do pokoju?
+Odpowiedź: Tak, oczywiście. Proszę o podanie godziny dostawy.
+Pytanie: Jakie są godziny serwowania śniadania?
+Odpowiedź: Śniadania serwujemy od 7:00 do 10:00.
+Pytanie: Czy macie menu dla dzieci?
+Odpowiedź: Tak, mamy specjalne menu dla dzieci.
+Pytanie: Czy oferujecie dania bezglutenowe?
+Odpowiedź: Tak, mamy w menu kilka opcji bezglutenowych.
+Pytanie: Gdzie znajduje się restauracja hotelowa?
+Odpowiedź: Restauracja znajduje się na parterze, obok recepcji.
+Pytanie: Czy mogę zarezerwować stolik na kolację?
+Odpowiedź: Tak, oczywiście. Kiedy chciałby Pan/Pani zarezerwować stolik?
+Pytanie: Czy serwujecie posiłki wegetariańskie?
+Odpowiedź: Tak, mamy w menu dania wegetariańskie.
+Pytanie: Jakie są godziny otwarcia baru?
+Odpowiedź: Bar jest otwarty od 18:00 do północy.
+Pytanie: Czy jest możliwość zamówienia lunchu na wynos?
+Odpowiedź: Tak, możemy przygotować lunch na wynos.
+Pytanie: Czy oferujecie room service przez całą dobę?
+Odpowiedź: Tak, nasz room service jest dostępny przez całą dobę.
+Pytanie: Jakie rodzaje napojów są dostępne w minibarze?
+Odpowiedź: W minibarze znajdują się woda, soki, napoje gazowane oraz alkohole.
+Pytanie: Czy jest możliwość zamówienia specjalnego tortu na urodziny?
+Odpowiedź: Tak, proszę podać szczegóły, a my przygotujemy tort.
+Pytanie: Czy oferujecie menu degustacyjne?
+Odpowiedź: Tak, mamy menu degustacyjne, które można zamówić w naszej restauracji.
+Pytanie: Czy mogę przynieść własne wino do restauracji?
+Odpowiedź: Niestety, nie pozwalamy na przynoszenie własnego alkoholu.
+Pytanie: Czy serwujecie kawę i herbatę w lobby?
+Odpowiedź: Tak, w lobby dostępne są kawa i herbata przez całą dobę.
+Pytanie: Czy można zorganizować przyjęcie w waszej restauracji?
+Odpowiedź: Tak, proszę skontaktować się z menedżerem restauracji w celu omówienia szczegółów.
+Pytanie: Czy oferujecie śniadania kontynentalne?
+Odpowiedź: Tak, w naszym menu są śniadania kontynentalne.
+Pytanie: Czy macie menu sezonowe?
+Odpowiedź: Tak, nasze menu zmienia się sezonowo.
+Pytanie: Czy mogę prosić o posiłek niskokaloryczny?
+Odpowiedź: Tak, mamy opcje niskokaloryczne w naszym menu.
+Pytanie: Czy serwujecie lokalne specjały?
+Odpowiedź: Tak, w naszym menu znajdują się również lokalne specjały.
+Pytanie: Czy macie opcje bez laktozy?
+Odpowiedź: Tak, mamy dania bez laktozy.
+Pytanie: Czy mogę zamówić śniadanie na wynos?
+Odpowiedź: Tak, możemy przygotować śniadanie na wynos.
+Pytanie: Czy restauracja oferuje widok na morze?
+Odpowiedź: Tak, z naszej restauracji rozciąga się widok na morze.
+Pytanie: Jakie są godziny serwowania kolacji?
+Odpowiedź: Kolacje serwujemy od 18:00 do 22:00.
+Pytanie: Czy można zamówić posiłek do ogrodu hotelowego?
+Odpowiedź: Tak, możemy dostarczyć posiłek do ogrodu.
+Pytanie: Czy oferujecie dania na specjalne okazje?
+Odpowiedź: Tak, przygotowujemy dania na specjalne okazje.
+Pytanie: Czy możecie przygotować koszyk piknikowy?
+Odpowiedź: Tak, proszę podać preferencje, a my przygotujemy koszyk piknikowy.
+Pytanie: Czy oferujecie usługę cateringu na konferencje?
+Odpowiedź: Tak, zapewniamy catering na konferencje i inne wydarzenia.
+Pytanie: Jakie są wasze specjały dnia?
+Odpowiedź: Specjały dnia zmieniają się codziennie, proszę zapytać obsługę o dzisiejsze propozycje.
+Pytanie: Czy można zamówić napoje alkoholowe do pokoju?
+Odpowiedź: Tak, można zamówić napoje alkoholowe poprzez room service.
